@@ -1,0 +1,9 @@
+.statusbar-overlay {
+    background: #000000;
+}
+
+iframe#box_chat{
+    width: 100%!important;
+    border: 0;
+
+}
