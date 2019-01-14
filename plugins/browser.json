@@ -1,0 +1,31 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "br.com.taticadesucesso.netforce_sac"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "br.com.taticadesucesso.netforce_sac"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "br.com.taticadesucesso.netforce_sac"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "br.com.taticadesucesso.netforce_sac"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "br.com.taticadesucesso.netforce_sac"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "br.com.taticadesucesso.netforce_sac"
+    }
+  }
+}
